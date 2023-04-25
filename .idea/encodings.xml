@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amqp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cliente/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cliente/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clients/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clients/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cu/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/custoner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/custoner/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fraud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fraud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lol/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lol/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notification/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/untitled-backend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/untitled-frontend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/untitled-frontend/src/main/resources" charset="UTF-8" />
   </component>
 </project>

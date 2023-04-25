@@ -1,0 +1,6 @@
+com\jeremias\dev\fraud\FraudController.class
+com\jeremias\dev\fraud\FraudRepository.class
+com\jeremias\dev\fraud\FraudAplication.class
+com\jeremias\dev\fraud\FraudCheckService.class
+com\jeremias\dev\fraud\FraudCheckHistory.class
+com\jeremias\dev\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class

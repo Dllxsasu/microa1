@@ -1,0 +1,4 @@
+com\jeremias\dev\clients\fraud\FraudCheckResponse.class
+com\jeremias\dev\clients\notification\NotificationRequest.class
+com\jeremias\dev\clients\fraud\FraudClient.class
+com\jeremias\dev\clients\notification\NotificationClient.class
