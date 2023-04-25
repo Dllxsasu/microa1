@@ -1,0 +1,6 @@
+com\jeremias\dev\cliente\ClienteController.class
+com\jeremias\dev\cliente\Cliente$ClienteBuilder.class
+com\jeremias\dev\cliente\ClienteRepository.class
+com\jeremias\dev\cliente\ClienteRequest.class
+com\jeremias\dev\cliente\Cliente.class
+com\jeremias\dev\cliente\ClienteService.class

@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/r1/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/lol/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="microa1" />
+        <module name="apigateway" />
+        <module name="cliente" />
+        <module name="notification" />
+        <module name="clients" />
+        <module name="fraud" />
+        <module name="amqp" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cu" target="19" />
+      <module name="customer" target="1.7" />
+      <module name="custoner" target="19" />
+      <module name="lol" target="1.7" />
+      <module name="r1" target="1.7" />
+      <module name="untitled" target="1.7" />
+      <module name="untitled-backend" target="1.7" />
+      <module name="untitled-frontend" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
