@@ -55,7 +55,7 @@ services:
     depends_on:
       - zipkin
   apigateway:
-    image: sasudxd/apigateway
+    image: sasudxd/apigateway:latest
     container_name: apigateway
     ports:
       - "8073:8073"
@@ -95,10 +95,12 @@ services:
       - postgres
       - rabbitmq
   notification:
-    image: sasudxd/notification
+    image: sasudxd/notification:latest
     container_name: notification
     ports:
       - "8087:8087"
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker
     networks:
       - spring
       - postgres
